@@ -1,0 +1,7 @@
+======================undo========================
+circle loss
+key point trains
+attention
+rot trans compute
+error compute
+net broken
